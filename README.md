@@ -4,7 +4,6 @@
 
 <a name="intro"></a>
 # BLCKMSK - VIDEO ART
-Th Hve video art.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
